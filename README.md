@@ -1,3 +1,14 @@
+## 🧑‍💻 About Me 🍗
+
+Hi there! I’m a frontend developer born in 2000, also a tech blogger who’s recording my growth and building interesting things with code.
+- 👨‍💻 3 years of coding experience. Skilled in Vue, TypeScript, and other frontend stacks. Currently learning Node and Koa for backend development.
+- ✍️ Started writing recently, sharing frontend notes, project breakdowns, and debugging logs. Mostly posting on Juejin and GitHub.
+- 🌱 Enjoy exploring new tools and frameworks. In my spare time, I experiment with AI, form automation, and productivity projects.
+- 🛠️ Accumulating open-source experience, aiming to contribute to more valuable projects in the future.
+- 🚀 My goal is to be a developer who keeps growing—able to explain complex things clearly and turn fun ideas into real projects.
+
+🥰 Note to self: Take your time. Both code and content are long-term games. 💪
+
 ## 我是程序员鸡腿 🍗
 
 您好呀，我是一名 00 年的前端程序员 + 知识博主，目前在努力记录成长，也在用代码创造一些有趣的东西：
